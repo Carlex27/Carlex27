@@ -75,8 +75,9 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/carlos-jadir-ocampo-de-la-torre-510918253/" target="_blank">
+<img src="https://img.shields.io/badge/Linkedin%3A%20Carlos%20Ocampo-black?logo=linkedin
+" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
