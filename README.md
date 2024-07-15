@@ -76,8 +76,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/carlos-jadir-ocampo-de-la-torre-510918253/" target="_blank">
-<img src="https://img.shields.io/badge/Linkedin%3A%20Carlos%20Ocampo-black?logo=linkedin
-" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Linkedin%3A%20Carlos%20Ocampo-black?logo=linkedin" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
