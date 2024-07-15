@@ -32,25 +32,26 @@
 
 <p align="center">
 
-- **Languages**:
+- **Languages for Back-end**:
     
-    ![Java](https://img.shields.io/badge/java-Spring%20Framework-brightgreen?style=flat)
-    ![Kotling](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-Spring%20Framework-brightgreen?style=flat&logo=spring)
+    ![Kotling](https://img.shields.io/badge/kotlin-white?logo=kotlin)
+    ![Python](https://img.shields.io/badge/Python-white?logo=python)
 
 <br>   
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![HTML5](https://img.shields.io/badge/html-white?logo=html5)
+   ![CSS3](https://img.shields.io/badge/CSS-blue?logo=css3)
+   ![JavaScript](https://img.shields.io/badge/JS-white?logo=javascript)
 
 <br>
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Github Pages](https://img.shields.io/badge/Github%20pages-black?logo=github)
+    ![Heroku](https://img.shields.io/badge/Heroku-black?logo=heroku)
     
 <br>
 
